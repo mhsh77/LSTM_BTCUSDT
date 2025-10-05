@@ -14,3 +14,5 @@ This repository contains a deep learning model built with TensorFlow/Keras to fo
 - Output: next-day Close price prediction
 ## 📊 Results
 The model demonstrates reasonable predictive capability, though further tuning (e.g., feature engineering, longer sequences, hybrid CNN-LSTM) may improve volatility tracking. See the included plots for visual comparison between actual and predicted prices.
+<img width="1031" height="547" alt="image" src="https://github.com/user-attachments/assets/671f09f0-42d9-4424-bbb5-1e4e640490d0" />
+
